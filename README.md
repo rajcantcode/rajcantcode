@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajcantcode
+- 👋 Hi, I’m Raj
 - 👀 I’m currently interested in web development 
 - 🌱 I’m currently learning frontend web development
 
