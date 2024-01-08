@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raj
 - 👀 I’m currently interested in web development 
-- 🌱 I’m currently learning frontend web development
+- 🌱 I’m currently learning NextJS
 
 
 <!---
